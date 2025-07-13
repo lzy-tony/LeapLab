@@ -1,4 +1,4 @@
-## Andrew Zhao
+## Zeyu Liu
 
 ![LiuZeyu](assets/photo.JPG)
 
@@ -21,6 +21,19 @@ PhD Candidate
 <a href="https://scholar.google.com/citations?user=55tpKaoAAAAJ">Google Scholar</a>
 
 ### Publications
+
+#### CODA: Repurposing Continuous VAEs for Discrete Tokenization
+
+[<a href="https://arxiv.org/abs/2503.17760">paper</a>]
+[<a href="https://lzy-tony.github.io/coda/">project page</a>]
+[<a href="https://github.com/LeapLabTHU/CODA">code</a>]
+
+Bib:Zeyu Liu, Zanlin Ni, Yeguo Hua, Xin Deng, Xiao Ma, Cheng Zhong, Gao Huang.
+International Conference on Computer Vision (ICCV 2025)
+
+Tags: Image Generation
+
+![coda](./assets/coda.png)
 
 #### Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering
 
